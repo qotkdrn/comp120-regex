@@ -1,0 +1,27 @@
+Line 2: x123 = 19278.00
+Line 3: salary = 759.60
+Line 4: time = -18864.73
+Line 5: x123 = 19293.00
+Line 8: 14.4 = 14.40
+Line 9: 23.4 + -19 + 98223 - 1.3e05 = -31772.60
+Line 10: 10 - 34 + 12.66 - 28 - 3323.2 + 12 = -3350.54
+Line 11: 14.3 + 234e-3 = 14.53
+Line 12: 92 - 13 = 79.00
+Line 13: 34 + 13 = 47.00
+Line 14: x123 = 19293.00
+Line 15: 14.4 - salary = -745.20
+Line 16: time + salary - 10 + x123 = 1177.87
+Line 19: Invalid statement
+Line 20: Invalid statement
+Line 21: Invalid statement
+Line 22: Invalid statement
+Line 23: Invalid statement
+Line 24: Invalid statement
+Line 25: Invalid statement
+Line 26: Invalid statement
+Line 27: Invalid statement
+Line 28: Invalid statement
+Line 29: Invalid statement
+Line 30: Invalid statement
+Line 31: Invalid statement
+Line 32: Invalid statement

@@ -1,0 +1,32 @@
+    # Test correct assignment statements
+x123 = 19278
+salary = 873 - 13 - 1.004e2
+time = -123.33 + salary - 123 + 23 + 0 + -123 - x123
+x123 = x123 + 15  # reassign the value of x123
+
+   # Test correct expression statements
+14.4
+23.4 + -19 + 98223 - 1.3e05
+10 - 34 + 12.66 - 28 - 3323.2 + 12
+14.3 + 234e-3
+92 - 13   # here is a comment after an expression
+34 + 13#and another comment
+x123
+14.4 - salary
+time + salary - 10 + x123
+
+    # Now test some invalid statements
+1474 +
+820.34 - junk  # junk has not been defined
+2884 - -1293 + 399 t 266
+23.8 - 203.3 +
++ 123.2 - 23.2
+2884.2 + 293 - 23.2 283.3 + +
+34.8 273 - 12
+x =
+t = = 15.3
+= 1450.2 - 4
+x = salary + time = 15
+x$y34 = 17 
+19 = 19   
+1xyz = 123
